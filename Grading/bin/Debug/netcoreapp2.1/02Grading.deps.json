@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "02Grading/1.0.0": {
+        "dependencies": {
+          "DisplayHelper": "1.0.0"
+        },
+        "runtime": {
+          "02Grading.dll": {}
+        }
+      },
+      "03ArrayUnlimited/1.0.0": {
+        "runtime": {
+          "03ArrayUnlimited.dll": {}
+        }
+      },
+      "DisplayHelper/1.0.0": {
+        "dependencies": {
+          "03ArrayUnlimited": "1.0.0"
+        },
+        "runtime": {
+          "DisplayHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02Grading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "03ArrayUnlimited/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DisplayHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

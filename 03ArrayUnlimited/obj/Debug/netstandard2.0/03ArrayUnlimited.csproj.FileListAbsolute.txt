@@ -1,0 +1,26 @@
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\03ArrayUnlimited\bin\Debug\netstandard2.0\03ArrayUnlimited.deps.json
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\03ArrayUnlimited\bin\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\03ArrayUnlimited\bin\Debug\netstandard2.0\03ArrayUnlimited.pdb
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.csprojAssemblyReference.cache
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.csproj.CoreCompileInputs.cache
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.AssemblyInfoInputs.cache
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.AssemblyInfo.cs
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.pdb
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\03ArrayUnlimited\bin\Debug\netstandard2.0\03ArrayUnlimited.deps.json
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\03ArrayUnlimited\bin\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\03ArrayUnlimited\bin\Debug\netstandard2.0\03ArrayUnlimited.pdb
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.AssemblyInfo.cs
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.pdb
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\bin\Debug\netstandard2.0\03ArrayUnlimited.deps.json
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\bin\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\bin\Debug\netstandard2.0\03ArrayUnlimited.pdb
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.csprojAssemblyReference.cache
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.csproj.CoreCompileInputs.cache
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.AssemblyInfoInputs.cache
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.AssemblyInfo.cs
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.pdb

@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\katul\\Desktop\\Nová složka\\PSLIB\\P2\\2019P2CSharpBasicsDisplay\\02PeopleArray\\02PeopleArray.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\katul\\Desktop\\Nová složka\\PSLIB\\P2\\2019P2CSharpBasicsDisplay\\02PeopleArray\\02PeopleArray.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\katul\\Desktop\\Nová složka\\PSLIB\\P2\\2019P2CSharpBasicsDisplay\\02PeopleArray\\02PeopleArray.csproj",
+        "projectName": "02PeopleArray",
+        "projectPath": "C:\\Users\\katul\\Desktop\\Nová složka\\PSLIB\\P2\\2019P2CSharpBasicsDisplay\\02PeopleArray\\02PeopleArray.csproj",
+        "packagesPath": "C:\\Users\\katul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katul\\Desktop\\Nová složka\\PSLIB\\P2\\2019P2CSharpBasicsDisplay\\02PeopleArray\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\katul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

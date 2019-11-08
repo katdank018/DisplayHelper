@@ -1,0 +1,35 @@
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csprojAssemblyReference.cache
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csproj.CoreCompileInputs.cache
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.AssemblyInfoInputs.cache
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.AssemblyInfo.cs
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.deps.json
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.dll
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.pdb
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.pdb
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csproj.CopyComplete
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.dll
+C:\Users\katul\Desktop\Nová složka\PSLIB\P2\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.pdb
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.deps.json
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.dll
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.pdb
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.pdb
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.AssemblyInfo.cs
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csproj.CopyComplete
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.dll
+C:\Users\PC\source\repos\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.pdb
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.deps.json
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.dll
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.pdb
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.pdb
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csprojAssemblyReference.cache
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csproj.CoreCompileInputs.cache
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.AssemblyInfoInputs.cache
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.AssemblyInfo.cs
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csproj.CopyComplete
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.dll
+C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.pdb
