@@ -24,3 +24,9 @@ C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Deb
 C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.AssemblyInfo.cs
 C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.dll
 C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.pdb
+X:\PRG\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.csprojAssemblyReference.cache
+X:\PRG\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.csproj.CoreCompileInputs.cache
+X:\PRG\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.AssemblyInfoInputs.cache
+X:\PRG\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.AssemblyInfo.cs
+X:\PRG\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.dll
+X:\PRG\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.pdb

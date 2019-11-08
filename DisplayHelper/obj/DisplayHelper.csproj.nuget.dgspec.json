@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\DisplayHelper\\DisplayHelper.csproj": {}
+    "X:\\PRG\\2019P2CSharpBasicsDisplay\\DisplayHelper\\DisplayHelper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj": {
+    "X:\\PRG\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
+        "projectUniqueName": "X:\\PRG\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
         "projectName": "03ArrayUnlimited",
-        "projectPath": "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
+        "projectPath": "X:\\PRG\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
         "packagesPath": "C:\\Users\\katdank018\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\obj\\",
+        "outputPath": "X:\\PRG\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\DisplayHelper\\DisplayHelper.csproj": {
+    "X:\\PRG\\2019P2CSharpBasicsDisplay\\DisplayHelper\\DisplayHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\DisplayHelper\\DisplayHelper.csproj",
+        "projectUniqueName": "X:\\PRG\\2019P2CSharpBasicsDisplay\\DisplayHelper\\DisplayHelper.csproj",
         "projectName": "DisplayHelper",
-        "projectPath": "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\DisplayHelper\\DisplayHelper.csproj",
+        "projectPath": "X:\\PRG\\2019P2CSharpBasicsDisplay\\DisplayHelper\\DisplayHelper.csproj",
         "packagesPath": "C:\\Users\\katdank018\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\DisplayHelper\\obj\\",
+        "outputPath": "X:\\PRG\\2019P2CSharpBasicsDisplay\\DisplayHelper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj": {
-                "projectPath": "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj"
+              "X:\\PRG\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj": {
+                "projectPath": "X:\\PRG\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj"
               }
             }
           }

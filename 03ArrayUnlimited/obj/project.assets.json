@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
+      "projectUniqueName": "X:\\PRG\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
       "projectName": "03ArrayUnlimited",
-      "projectPath": "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
+      "projectPath": "X:\\PRG\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
       "packagesPath": "C:\\Users\\katdank018\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\katdank018\\Downloads\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\obj\\",
+      "outputPath": "X:\\PRG\\2019P2CSharpBasicsDisplay\\03ArrayUnlimited\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

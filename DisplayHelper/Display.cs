@@ -29,12 +29,11 @@ namespace DisplayHelper
         public void Refresh()
         {
             Frame();
-            object[] array = _array.GetAll();
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < _array.Length; i++)
             {
                 Console.SetCursorPosition(_x + xpadding + border, _y - border);
                 _y += 2;
-                Console.Write(array[i]);
+                Console.Write(_array[i]);
             }
         }
 

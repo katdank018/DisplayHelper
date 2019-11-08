@@ -33,3 +33,15 @@ C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\
 C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csproj.CopyComplete
 C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.dll
 C:\Users\katdank018\Downloads\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.pdb
+X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.deps.json
+X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.dll
+X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.pdb
+X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.dll
+X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.pdb
+X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csprojAssemblyReference.cache
+X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csproj.CoreCompileInputs.cache
+X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.AssemblyInfoInputs.cache
+X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.AssemblyInfo.cs
+X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csproj.CopyComplete
+X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.dll
+X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.pdb
