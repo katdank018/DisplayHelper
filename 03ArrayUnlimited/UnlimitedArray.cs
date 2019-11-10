@@ -17,10 +17,10 @@ namespace ArrayUnlimited
         {
             _array = new object[initSize];
         }
-        public static UnlimitedArray operator +(UnlimitedArray first, UnlimitedArray second)
-        {
+        //public static UnlimitedArray operator +(UnlimitedArray first, UnlimitedArray second)
+        //{
 
-        }
+        //}
 
         public object this[int index]
         {

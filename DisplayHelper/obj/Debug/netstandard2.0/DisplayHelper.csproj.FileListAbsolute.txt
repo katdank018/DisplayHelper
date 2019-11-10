@@ -45,3 +45,14 @@ X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayH
 X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csproj.CopyComplete
 X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.dll
 X:\PRG\2019P2CSharpBasicsDisplay\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.pdb
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csprojAssemblyReference.cache
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.AssemblyInfoInputs.cache
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.AssemblyInfo.cs
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.dll
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.pdb
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.deps.json
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.dll
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.pdb
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.pdb
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csproj.CopyComplete

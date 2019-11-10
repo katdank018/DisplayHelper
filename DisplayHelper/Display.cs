@@ -10,7 +10,7 @@ namespace DisplayHelper
         int _x, _y;
         const int xpadding = 3;
         const int ypadding = 1;
-        const int border = 4;
+        const int border = 3;
         public Display(string item, int x, int y)
         {
             _array = new UnlimitedArray();
@@ -28,11 +28,13 @@ namespace DisplayHelper
 
         public void Refresh()
         {
+            int _y2 = _y;
             Frame();
+            
             for (int i = 0; i < _array.Length; i++)
             {
-                Console.SetCursorPosition(_x + xpadding + border, _y - border);
-                _y += 2;
+                Console.SetCursorPosition(_x + xpadding + border, _y2 + border );
+                _y2 += 2;
                 Console.Write(_array[i]);
             }
         }
@@ -46,7 +48,7 @@ namespace DisplayHelper
                 Console.Write("─");
             }
             Console.Write("┐");
-            for (int i = 0; i < 2 * _array.Count + 2 * ypadding + 1; i++)
+            for (int i = 0; i < 2* _array.Count + 2 * ypadding + 1; i++)
             {
                 _y += 1;
                 Console.SetCursorPosition(_x, _y);

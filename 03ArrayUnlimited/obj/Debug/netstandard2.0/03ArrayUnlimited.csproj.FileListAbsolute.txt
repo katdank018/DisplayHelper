@@ -30,3 +30,11 @@ X:\PRG\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03Arr
 X:\PRG\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.AssemblyInfo.cs
 X:\PRG\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.dll
 X:\PRG\2019P2CSharpBasicsDisplay\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.pdb
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.csprojAssemblyReference.cache
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.AssemblyInfoInputs.cache
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.AssemblyInfo.cs
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\03ArrayUnlimited\obj\Debug\netstandard2.0\03ArrayUnlimited.pdb
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\03ArrayUnlimited\bin\Debug\netstandard2.0\03ArrayUnlimited.deps.json
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\03ArrayUnlimited\bin\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\katul\Source\Repos\katdank018\DisplayHelper\03ArrayUnlimited\bin\Debug\netstandard2.0\03ArrayUnlimited.pdb
