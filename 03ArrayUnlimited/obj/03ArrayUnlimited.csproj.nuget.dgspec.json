@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj": {}
+    "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj": {}
   },
   "projects": {
-    "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj": {
+    "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
+        "projectUniqueName": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
         "projectName": "03ArrayUnlimited",
-        "projectPath": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
+        "projectPath": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
         "packagesPath": "C:\\Users\\katul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\03ArrayUnlimited\\obj\\",
+        "outputPath": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\03ArrayUnlimited\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

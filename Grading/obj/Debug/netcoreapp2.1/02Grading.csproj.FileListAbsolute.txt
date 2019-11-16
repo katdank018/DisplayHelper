@@ -76,3 +76,18 @@ C:\Users\katul\Source\Repos\katdank018\DisplayHelper\Grading\obj\Debug\netcoreap
 C:\Users\katul\Source\Repos\katdank018\DisplayHelper\Grading\obj\Debug\netcoreapp2.1\02Grading.csproj.CopyComplete
 C:\Users\katul\Source\Repos\katdank018\DisplayHelper\Grading\obj\Debug\netcoreapp2.1\02Grading.dll
 C:\Users\katul\Source\Repos\katdank018\DisplayHelper\Grading\obj\Debug\netcoreapp2.1\02Grading.pdb
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\bin\Debug\netcoreapp2.1\02Grading.deps.json
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\bin\Debug\netcoreapp2.1\02Grading.runtimeconfig.json
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\bin\Debug\netcoreapp2.1\02Grading.runtimeconfig.dev.json
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\bin\Debug\netcoreapp2.1\02Grading.dll
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\bin\Debug\netcoreapp2.1\02Grading.pdb
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\bin\Debug\netcoreapp2.1\03ArrayUnlimited.dll
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\bin\Debug\netcoreapp2.1\DisplayHelper.dll
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\bin\Debug\netcoreapp2.1\DisplayHelper.pdb
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\bin\Debug\netcoreapp2.1\03ArrayUnlimited.pdb
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\obj\Debug\netcoreapp2.1\02Grading.csprojAssemblyReference.cache
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\obj\Debug\netcoreapp2.1\02Grading.AssemblyInfoInputs.cache
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\obj\Debug\netcoreapp2.1\02Grading.AssemblyInfo.cs
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\obj\Debug\netcoreapp2.1\02Grading.csproj.CopyComplete
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\obj\Debug\netcoreapp2.1\02Grading.dll
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Grading\obj\Debug\netcoreapp2.1\02Grading.pdb

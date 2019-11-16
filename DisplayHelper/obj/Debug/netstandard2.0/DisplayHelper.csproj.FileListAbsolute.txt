@@ -56,3 +56,14 @@ C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\bin\Debug\net
 C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.dll
 C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.pdb
 C:\Users\katul\Source\Repos\katdank018\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csproj.CopyComplete
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.deps.json
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.dll
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper.pdb
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.dll
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\DisplayHelper\bin\Debug\netstandard2.0\03ArrayUnlimited.pdb
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csprojAssemblyReference.cache
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.AssemblyInfoInputs.cache
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.AssemblyInfo.cs
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.csproj.CopyComplete
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.dll
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper.pdb

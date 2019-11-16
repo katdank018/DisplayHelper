@@ -17,10 +17,20 @@ namespace ArrayUnlimited
         {
             _array = new object[initSize];
         }
-        //public static UnlimitedArray operator +(UnlimitedArray first, UnlimitedArray second)
-        //{
-
-        //}
+        public static UnlimitedArray operator +(UnlimitedArray first, UnlimitedArray second)
+        {
+            UnlimitedArray temp = new UnlimitedArray(first.Count + second.Count);
+            int i = 0;
+            foreach (var item in first)
+            {
+                temp.Insert(item, i++);
+            }
+            foreach (var item in second)
+            {
+                temp.Insert(item, i++);
+            }
+            return temp;
+        }
 
         public object this[int index]
         {

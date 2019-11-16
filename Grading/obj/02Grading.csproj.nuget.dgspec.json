@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\Grading\\02Grading.csproj": {}
+    "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\Grading\\02Grading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj": {
+    "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
+        "projectUniqueName": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
         "projectName": "03ArrayUnlimited",
-        "projectPath": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
+        "projectPath": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj",
         "packagesPath": "C:\\Users\\katul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\03ArrayUnlimited\\obj\\",
+        "outputPath": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\03ArrayUnlimited\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\DisplayHelper\\DisplayHelper.csproj": {
+    "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\DisplayHelper\\DisplayHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\DisplayHelper\\DisplayHelper.csproj",
+        "projectUniqueName": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\DisplayHelper\\DisplayHelper.csproj",
         "projectName": "DisplayHelper",
-        "projectPath": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\DisplayHelper\\DisplayHelper.csproj",
+        "projectPath": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\DisplayHelper\\DisplayHelper.csproj",
         "packagesPath": "C:\\Users\\katul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\DisplayHelper\\obj\\",
+        "outputPath": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\DisplayHelper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj": {
-                "projectPath": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj"
+              "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj": {
+                "projectPath": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\03ArrayUnlimited\\03ArrayUnlimited.csproj"
               }
             }
           }
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\Grading\\02Grading.csproj": {
+    "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\Grading\\02Grading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\Grading\\02Grading.csproj",
+        "projectUniqueName": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\Grading\\02Grading.csproj",
         "projectName": "02Grading",
-        "projectPath": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\Grading\\02Grading.csproj",
+        "projectPath": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\Grading\\02Grading.csproj",
         "packagesPath": "C:\\Users\\katul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\Grading\\obj\\",
+        "outputPath": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\Grading\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -150,8 +150,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\DisplayHelper\\DisplayHelper.csproj": {
-                "projectPath": "C:\\Users\\katul\\Source\\Repos\\katdank018\\DisplayHelper\\DisplayHelper\\DisplayHelper.csproj"
+              "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\DisplayHelper\\DisplayHelper.csproj": {
+                "projectPath": "C:\\Users\\katul\\Desktop\\Nová složka\\DisplayHelper\\DisplayHelper\\DisplayHelper.csproj"
               }
             }
           }
