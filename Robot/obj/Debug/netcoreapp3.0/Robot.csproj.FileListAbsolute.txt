@@ -1,0 +1,16 @@
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\bin\Debug\netcoreapp3.0\Robot.exe
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\bin\Debug\netcoreapp3.0\Robot.deps.json
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\bin\Debug\netcoreapp3.0\Robot.runtimeconfig.json
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\bin\Debug\netcoreapp3.0\Robot.runtimeconfig.dev.json
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\bin\Debug\netcoreapp3.0\Robot.dll
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\bin\Debug\netcoreapp3.0\Robot.pdb
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\bin\Debug\netcoreapp3.0\03ArrayUnlimited.dll
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\bin\Debug\netcoreapp3.0\DisplayHelper.dll
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\bin\Debug\netcoreapp3.0\03ArrayUnlimited.pdb
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\bin\Debug\netcoreapp3.0\DisplayHelper.pdb
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\obj\Debug\netcoreapp3.0\Robot.csprojAssemblyReference.cache
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\obj\Debug\netcoreapp3.0\Robot.AssemblyInfoInputs.cache
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\obj\Debug\netcoreapp3.0\Robot.AssemblyInfo.cs
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\obj\Debug\netcoreapp3.0\Robot.csproj.CopyComplete
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\obj\Debug\netcoreapp3.0\Robot.dll
+C:\Users\katul\Desktop\Nová složka\DisplayHelper\Robot\obj\Debug\netcoreapp3.0\Robot.pdb

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\03ArrayUnlimited\03ArrayUnlimited.csproj" />
+    <ProjectReference Include="..\DisplayHelper\DisplayHelper.csproj" />
+  </ItemGroup>
+
+</Project>
