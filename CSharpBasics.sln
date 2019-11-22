@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03ArrayUnlimited", "03Array
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisplayHelper", "DisplayHelper\DisplayHelper.csproj", "{93561CDD-A588-47D0-9518-F34C551DD7D0}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Robot", "Robot\Robot.csproj", "{BB4F82BA-D6B0-4BEF-881C-1BD305D97E0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{93561CDD-A588-47D0-9518-F34C551DD7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93561CDD-A588-47D0-9518-F34C551DD7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93561CDD-A588-47D0-9518-F34C551DD7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4F82BA-D6B0-4BEF-881C-1BD305D97E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4F82BA-D6B0-4BEF-881C-1BD305D97E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4F82BA-D6B0-4BEF-881C-1BD305D97E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4F82BA-D6B0-4BEF-881C-1BD305D97E0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
